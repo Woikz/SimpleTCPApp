@@ -1,0 +1,16 @@
+E:\TCP Chat App\Client\bin\Debug\net5.0\Client.exe
+E:\TCP Chat App\Client\bin\Debug\net5.0\Client.deps.json
+E:\TCP Chat App\Client\bin\Debug\net5.0\Client.runtimeconfig.json
+E:\TCP Chat App\Client\bin\Debug\net5.0\Client.runtimeconfig.dev.json
+E:\TCP Chat App\Client\bin\Debug\net5.0\Client.dll
+E:\TCP Chat App\Client\bin\Debug\net5.0\ref\Client.dll
+E:\TCP Chat App\Client\bin\Debug\net5.0\Client.pdb
+E:\TCP Chat App\Client\obj\Debug\net5.0\Client.csprojAssemblyReference.cache
+E:\TCP Chat App\Client\obj\Debug\net5.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\TCP Chat App\Client\obj\Debug\net5.0\Client.AssemblyInfoInputs.cache
+E:\TCP Chat App\Client\obj\Debug\net5.0\Client.AssemblyInfo.cs
+E:\TCP Chat App\Client\obj\Debug\net5.0\Client.csproj.CoreCompileInputs.cache
+E:\TCP Chat App\Client\obj\Debug\net5.0\Client.dll
+E:\TCP Chat App\Client\obj\Debug\net5.0\ref\Client.dll
+E:\TCP Chat App\Client\obj\Debug\net5.0\Client.pdb
+E:\TCP Chat App\Client\obj\Debug\net5.0\Client.genruntimeconfig.cache
